@@ -1,2 +1,2 @@
 # openfeign
-Criando aplicação utilizando openfeign para consumir api externo
+Criando aplicação utilizando openfeign para integrar e consumir API's externos.
